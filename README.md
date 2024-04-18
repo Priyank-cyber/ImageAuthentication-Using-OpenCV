@@ -1,4 +1,4 @@
-# ImageAuthentication_Using-OpenCV
+# ImageAuthentication-Using-OpenCV
 
 There are several steps included in the authentication of an image and these are:
 
